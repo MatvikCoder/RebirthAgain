@@ -12,7 +12,7 @@
 
 А ещё Я.Л.К.В.М.О.М.
 
-#ZAPUSK
+# ZAPUSK
 
 1. make или make iso
 2. make run или make run-iso
